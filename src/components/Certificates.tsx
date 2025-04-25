@@ -20,7 +20,7 @@ const certificatesData: Certificate[] = [
     title: "Mastering Data Structures and Algorithms",
     issuer: "Udemy",
     date: "August 2024",
-    link: "https://www.udemy.com/",
+    link: "https://drive.google.com/drive/folders/14JeIQbgfYaNfwwnghuOaer4kt9mA2MFJ",
     description: "Comprehensive course covering advanced data structures and algorithm techniques for efficient problem-solving.",
     skills: ["Data Structures", "Algorithms", "Problem Solving", "Time Complexity", "Space Complexity"]
   },
@@ -29,7 +29,7 @@ const certificatesData: Certificate[] = [
     title: "Programming in C++: A Hands-On Approach",
     issuer: "Coursera",
     date: "March 2023",
-    link: "https://www.coursera.org/",
+    link: "https://drive.google.com/drive/folders/14JeIQbgfYaNfwwnghuOaer4kt9mA2MFJ",
     description: "Practical course teaching C++ programming fundamentals and object-oriented programming concepts.",
     skills: ["C++", "OOP", "Memory Management", "STL", "Exception Handling"]
   },
@@ -38,7 +38,7 @@ const certificatesData: Certificate[] = [
     title: "Server-side JavaScript with Node.js",
     issuer: "Coursera",
     date: "December 2024",
-    link: "https://www.coursera.org/",
+    link: "https://drive.google.com/drive/folders/14JeIQbgfYaNfwwnghuOaer4kt9mA2MFJ",
     description: "In-depth coverage of server-side JavaScript development using Node.js, Express, and related technologies.",
     skills: ["Node.js", "Express", "RESTful APIs", "MongoDB", "Authentication"]
   },
@@ -47,7 +47,7 @@ const certificatesData: Certificate[] = [
     title: "Cloud Computing",
     issuer: "NPTEL",
     date: "November 2024",
-    link: "https://nptel.ac.in/",
+    link: "https://drive.google.com/drive/folders/14JeIQbgfYaNfwwnghuOaer4kt9mA2MFJ",
     description: "Comprehensive course on cloud computing principles, architectures, and implementation strategies.",
     skills: ["Cloud Architecture", "AWS", "Virtualization", "Scalability", "Security"]
   },
@@ -56,7 +56,7 @@ const certificatesData: Certificate[] = [
     title: "AI and Machine Learning",
     issuer: "LinkedIn Learning",
     date: "December 2022",
-    link: "https://www.linkedin.com/learning/",
+    link: "https://drive.google.com/drive/folders/14JeIQbgfYaNfwwnghuOaer4kt9mA2MFJ",
     description: "Fundamentals of artificial intelligence and machine learning techniques and applications.",
     skills: ["Python", "Machine Learning", "Data Analysis", "Neural Networks", "Model Evaluation"]
   },
@@ -65,7 +65,7 @@ const certificatesData: Certificate[] = [
     title: "Digital Marketing Certification",
     issuer: "Vestige",
     date: "December 2022 - December 2023",
-    link: "https://www.vestige.com/",
+    link: "https://drive.google.com/drive/folders/14JeIQbgfYaNfwwnghuOaer4kt9mA2MFJ",
     description: "Comprehensive Digital Marketing training program covering social media marketing, SEO, email marketing, and brand promotion.",
     skills: ["Social Media Marketing", "SEO", "Email Marketing", "Brand Promotion", "Lead Generation"]
   }

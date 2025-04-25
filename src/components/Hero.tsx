@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
               Hello, I'm
             </h2>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-gray-900 dark:text-white">
-              Uday Ponnaganti
+              Vardhan Danda
             </h1>
             <p className="text-xl md:text-2xl text-gray-700 dark:text-gray-300 mb-6">
               BTech Computer Science Student & Full Stack Developer
@@ -31,7 +31,7 @@ const Hero: React.FC = () => {
             
             <div className="flex flex-wrap gap-4">
               <a 
-                href="https://github.com/udayponnaganti" 
+                href="https://github.com/Vardhan1705" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="btn btn-primary"
@@ -40,7 +40,7 @@ const Hero: React.FC = () => {
                 GitHub
               </a>
               <a 
-                href="https://www.linkedin.com/in/udayponnaganti2004" 
+                href="https://linkedin.com/in/jai-sai-vardhan-danda10/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="btn btn-outline"
@@ -65,11 +65,12 @@ const Hero: React.FC = () => {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.6, delay: 0.2 }}
             className="order-1 md:order-2 flex justify-center"
+    
           >
             <div className="relative">
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-indigo-100 dark:bg-indigo-900/30 overflow-hidden animate-float">
                 <img
-                  src="/udayphotoformal.jpg"
+                  src="/vardhanformal.jpg"
                   alt="Uday Ponnaganti"
                   className="w-full h-full object-cover"
                 />

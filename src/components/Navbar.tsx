@@ -46,7 +46,7 @@ const Navbar: React.FC = () => {
             duration={500}
             className="text-xl font-bold text-indigo-600 dark:text-indigo-400 cursor-pointer"
           >
-            Uday<span className="text-gray-800 dark:text-gray-200">Ponnaganti</span>
+            Vardhan<span className="text-gray-800 dark:text-gray-200">Danda</span>
           </Link>
 
           {/* Desktop Navigation */}

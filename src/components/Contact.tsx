@@ -42,8 +42,8 @@ const Contact: React.FC = () => {
                 <div>
                   <h4 className="text-sm font-medium text-gray-600 dark:text-gray-400">Email</h4>
                   <p className="text-lg font-medium text-gray-900 dark:text-white">
-                    <a href="mailto:ponnagantiuday8@gmail.com" className="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-300">
-                      ponnagantiuday8@gmail.com
+                    <a href="mailto:dandavardhan223@gmail.com" className="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-300">
+                      dandavardhan223@gmail.com
                     </a>
                   </p>
                 </div>
@@ -57,7 +57,7 @@ const Contact: React.FC = () => {
                   <h4 className="text-sm font-medium text-gray-600 dark:text-gray-400">Phone</h4>
                   <p className="text-lg font-medium text-gray-900 dark:text-white">
                     <a href="tel:9177971960" className="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-300">
-                      9177971960
+                      9966003479
                     </a>
                   </p>
                 </div>
@@ -70,7 +70,7 @@ const Contact: React.FC = () => {
                 <div>
                   <h4 className="text-sm font-medium text-gray-600 dark:text-gray-400">Location</h4>
                   <p className="text-lg font-medium text-gray-900 dark:text-white">
-                    Kadapa, Andhra Pradesh, India
+                    Srikakulam, Andhra Pradesh, India
                   </p>
                 </div>
               </div>
@@ -83,7 +83,7 @@ const Contact: React.FC = () => {
               
               <div className="flex space-x-4">
                 <a 
-                  href="https://github.com/udayponnaganti" 
+                  href="https://github.com/Vardhan1705" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="w-12 h-12 bg-gray-900 dark:bg-gray-700 rounded-full flex items-center justify-center text-white hover:bg-indigo-600 dark:hover:bg-indigo-500 transition-colors duration-300"
@@ -93,7 +93,7 @@ const Contact: React.FC = () => {
                 </a>
                 
                 <a 
-                  href="https://www.linkedin.com/in/udayponnaganti2004" 
+                  href="https://linkedin.com/in/jai-sai-vardhan-danda10/" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="w-12 h-12 bg-blue-700 rounded-full flex items-center justify-center text-white hover:bg-blue-800 transition-colors duration-300"
@@ -103,7 +103,7 @@ const Contact: React.FC = () => {
                 </a>
                 
                 <a 
-                  href="mailto:ponnagantiuday8@gmail.com" 
+                  href="mailto:dandavardhan223@gmail.com" 
                   className="w-12 h-12 bg-red-600 rounded-full flex items-center justify-center text-white hover:bg-red-700 transition-colors duration-300"
                   aria-label="Email"
                 >

@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
-            <h2 className="text-2xl font-bold text-white mb-2">Uday Ponnaganti</h2>
+            <h2 className="text-2xl font-bold text-white mb-2">Vardhan Danda</h2>
             <p className="text-gray-400">BTech Computer Science Student & Developer</p>
           </div>
           
@@ -72,7 +72,7 @@ const Footer: React.FC = () => {
             <h3 className="text-lg font-semibold mb-3">Connect</h3>
             <div className="flex space-x-4">
               <a 
-                href="https://github.com/udayponnaganti" 
+                href="https://github.com/Vardhan1705" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-gray-400 hover:text-white transition-colors duration-300"
@@ -84,7 +84,7 @@ const Footer: React.FC = () => {
               </a>
               
               <a 
-                href="https://www.linkedin.com/in/udayponnaganti2004" 
+                href="https://linkedin.com/in/jai-sai-vardhan-danda10/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-gray-400 hover:text-white transition-colors duration-300"
@@ -98,7 +98,7 @@ const Footer: React.FC = () => {
               </a>
               
               <a 
-                href="mailto:ponnagantiuday8@gmail.com" 
+                href="mailto:dandavardhan223@gmail.com" 
                 className="text-gray-400 hover:text-white transition-colors duration-300"
                 aria-label="Email"
               >
@@ -113,7 +113,7 @@ const Footer: React.FC = () => {
         
         <div className="mt-10 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            &copy; {currentYear} Uday Ponnaganti. All rights reserved.
+            &copy; {currentYear} Vardhan Danda. All rights reserved.
           </p>
           
           <Link

@@ -45,7 +45,7 @@ const About: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-medium text-gray-900 dark:text-white">Location</h4>
-                  <p className="text-gray-600 dark:text-gray-400">Kadapa, Andhra Pradesh 281001</p>
+                  <p className="text-gray-600 dark:text-gray-400">Srikakulam, Andhra Pradesh 281001</p>
                 </div>
               </div>
               
@@ -55,7 +55,7 @@ const About: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-medium text-gray-900 dark:text-white">Email</h4>
-                  <p className="text-gray-600 dark:text-gray-400">ponnagantiuday8@gmail.com</p>
+                  <p className="text-gray-600 dark:text-gray-400">dandavardhan223@gmail.com</p>
                 </div>
               </div>
               
@@ -65,7 +65,7 @@ const About: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-medium text-gray-900 dark:text-white">Phone</h4>
-                  <p className="text-gray-600 dark:text-gray-400">9177971960</p>
+                  <p className="text-gray-600 dark:text-gray-400">9966003479</p>
                 </div>
               </div>
             </div>
@@ -124,13 +124,13 @@ const About: React.FC = () => {
                     Narayana Junior College
                   </div>
                   <div className="text-gray-600 dark:text-gray-400">12th with Science</div>
-                  <div className="text-gray-600 dark:text-gray-400">2020 - 2022 | Percentage: 78%</div>
+                  <div className="text-gray-600 dark:text-gray-400">2020 - 2022 | Percentage: 95%</div>
                 </div>
                 
                 <div className="relative pl-8">
                   <div className="absolute left-[-9px] top-0 w-4 h-4 rounded-full bg-indigo-600"></div>
                   <div className="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-                    Balavikas E.M High School
+                    Narayana School
                   </div>
                   <div className="text-gray-600 dark:text-gray-400">10th with Science</div>
                   <div className="text-gray-600 dark:text-gray-400">2019 - 2020 | CGPA: 10</div>
