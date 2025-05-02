@@ -35,7 +35,7 @@ const projectsData: Project[] = [
     detailedDescription: "Developed a Sales Tracker website to monitor and manage sales records efficiently. Built a dynamic and responsive frontend using React.js for seamless user interaction. Integrated features like data visualization, filtering, and sorting for better sales insights. Used extensively by students for preparation of university exams in COVID times.",
     image: "https://images.pexels.com/photos/7947451/pexels-photo-7947451.jpeg",
     technologies: ["React.js", "Chart.js", "CSS", "JavaScript", "Responsive Design"],
-    github: "https://github.com/Vardhan1705",
+    github: "https://sales-tracker.protoproject.in/",
     period: "September 2024 - December 2024",
     type: 'featured'
   },
