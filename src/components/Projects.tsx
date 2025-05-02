@@ -24,7 +24,7 @@ const projectsData: Project[] = [
     detailedDescription: "Developed a hospital management system to manage hospitals, doctors, and patients with role-based access (Admin, Doctor, Patient). Implemented RESTful APIs in Node.js and Express.js, integrating MongoDB for secure data storage and retrieval. Applied MERN stack knowledge successfully to create a fully functional MERN stack website. Enabled hospital creation, updating, deletion, and searching by city, along with hospital detail management.",
     image: "https://images.pexels.com/photos/7089401/pexels-photo-7089401.jpeg",
     technologies: ["React", "Node.js", "Express", "MongoDB", "Authentication"],
-    github: "https://github.com/Vardhan1705",
+    github: "https://hospital-management-system-rouge-mu.vercel.app/",
     period: "January 2024 - February 2024",
     type: 'featured'
   },
